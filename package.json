@@ -1,0 +1,22 @@
+{
+  "name": "sol_airdrop4",
+  "version": "1.0.0",
+  "description": "airdrop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdithyaChauhan/sol_airdrop4.git"
+  },
+  "author": "Adithya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdithyaChauhan/sol_airdrop4/issues"
+  },
+  "homepage": "https://github.com/AdithyaChauhan/sol_airdrop4#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
